@@ -261,7 +261,7 @@ Use the default credentials to log in:
 
 Follow the setup wizard to complete the installation.
 
-![look at this](./cacti/photo/cacti1.png)
+![look at this](./photo/cacti1.png)
 
 ---
 
