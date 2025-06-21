@@ -260,7 +260,7 @@ Use the default credentials to log in:
 * **Password:** `admin`
 
 Follow the setup wizard to complete the installation.
-
+![look at this](./photo/photo1.png)
 ---
 
 ## 🎉 You're Done!
